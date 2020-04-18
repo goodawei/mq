@@ -8,5 +8,5 @@ $baseDir = dirname($vendorDir);
 return array(
     'phpseclib\\' => array($vendorDir . '/phpseclib/phpseclib/phpseclib'),
     'PhpAmqpLib\\' => array($vendorDir . '/php-amqplib/php-amqplib/PhpAmqpLib'),
-    'Api\\Pay\\' => array($vendorDir . '/lhwapi/pay/src'),
+    'App\\Mq\\' => array($baseDir . '/src'),
 );

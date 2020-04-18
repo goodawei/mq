@@ -4,44 +4,11 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "d91dc6848c0cee8985cc015ffcf0a0ad",
+    "content-hash": "f70c280c0b44cd3211625f31e6b0d86c",
     "packages": [
         {
-            "name": "lhwapi/pay",
-            "version": "1.0",
-            "source": {
-                "type": "git",
-                "url": "https://github.com/goodawei/laravel-packages.git",
-                "reference": "6c5842300a6cc519067b6dd195503f92ed6dcc7a"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://api.github.com/repos/goodawei/laravel-packages/zipball/6c5842300a6cc519067b6dd195503f92ed6dcc7a",
-                "reference": "6c5842300a6cc519067b6dd195503f92ed6dcc7a",
-                "shasum": ""
-            },
-            "type": "library",
-            "autoload": {
-                "psr-4": {
-                    "Api\\Pay\\": "src/"
-                }
-            },
-            "notification-url": "https://packagist.org/downloads/",
-            "license": [
-                "MIT"
-            ],
-            "authors": [
-                {
-                    "name": "lhw",
-                    "email": "bjletaoba@sina.com"
-                }
-            ],
-            "description": "api pay pkg",
-            "time": "2016-10-20T02:20:39+00:00"
-        },
-        {
             "name": "php-amqplib/php-amqplib",
-            "version": "v2.11.1",
+            "version": "dev-master",
             "source": {
                 "type": "git",
                 "url": "https://github.com/php-amqplib/php-amqplib.git",
@@ -118,16 +85,16 @@
         },
         {
             "name": "phpseclib/phpseclib",
-            "version": "2.0.26",
+            "version": "2.0.x-dev",
             "source": {
                 "type": "git",
                 "url": "https://github.com/phpseclib/phpseclib.git",
-                "reference": "09655fcc1f8bab65727be036b28f6f20311c126c"
+                "reference": "7e67f882eea25bfbc38a45d3e82ed0f803877dc6"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/phpseclib/phpseclib/zipball/09655fcc1f8bab65727be036b28f6f20311c126c",
-                "reference": "09655fcc1f8bab65727be036b28f6f20311c126c",
+                "url": "https://api.github.com/repos/phpseclib/phpseclib/zipball/7e67f882eea25bfbc38a45d3e82ed0f803877dc6",
+                "reference": "7e67f882eea25bfbc38a45d3e82ed0f803877dc6",
                 "shasum": ""
             },
             "require": {
@@ -206,12 +173,12 @@
                 "x.509",
                 "x509"
             ],
-            "time": "2020-03-13T04:15:39+00:00"
+            "time": "2020-03-28T23:05:49+00:00"
         }
     ],
     "packages-dev": [],
     "aliases": [],
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "stability-flags": [],
     "prefer-stable": false,
     "prefer-lowest": false,

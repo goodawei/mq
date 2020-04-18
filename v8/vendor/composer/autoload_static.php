@@ -4,7 +4,7 @@
 
 namespace Composer\Autoload;
 
-class ComposerStaticInit9ca2cfc7b3adeae2ab2e42419f23ac80
+class ComposerStaticInit5f82cb03cbc232dd7bf056a575796cef
 {
     public static $files = array (
         'decc78cc4436b1292c6c0d151b19445c' => __DIR__ . '/..' . '/phpseclib/phpseclib/phpseclib/bootstrap.php',
@@ -21,7 +21,7 @@ class ComposerStaticInit9ca2cfc7b3adeae2ab2e42419f23ac80
         ),
         'A' => 
         array (
-            'Api\\Pay\\' => 8,
+            'App\\Mq\\' => 7,
         ),
     );
 
@@ -34,17 +34,17 @@ class ComposerStaticInit9ca2cfc7b3adeae2ab2e42419f23ac80
         array (
             0 => __DIR__ . '/..' . '/php-amqplib/php-amqplib/PhpAmqpLib',
         ),
-        'Api\\Pay\\' => 
+        'App\\Mq\\' => 
         array (
-            0 => __DIR__ . '/..' . '/lhwapi/pay/src',
+            0 => __DIR__ . '/../..' . '/src',
         ),
     );
 
     public static function getInitializer(ClassLoader $loader)
     {
         return \Closure::bind(function () use ($loader) {
-            $loader->prefixLengthsPsr4 = ComposerStaticInit9ca2cfc7b3adeae2ab2e42419f23ac80::$prefixLengthsPsr4;
-            $loader->prefixDirsPsr4 = ComposerStaticInit9ca2cfc7b3adeae2ab2e42419f23ac80::$prefixDirsPsr4;
+            $loader->prefixLengthsPsr4 = ComposerStaticInit5f82cb03cbc232dd7bf056a575796cef::$prefixLengthsPsr4;
+            $loader->prefixDirsPsr4 = ComposerStaticInit5f82cb03cbc232dd7bf056a575796cef::$prefixDirsPsr4;
 
         }, null, ClassLoader::class);
     }
