@@ -2,184 +2,224 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1b0fe848-4e93-4bd0-9434-87f560606d9e" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/composer.json" afterPath="$PROJECT_DIR$/composer.json" />
-      <change beforePath="$PROJECT_DIR$/composer.lock" afterPath="$PROJECT_DIR$/composer.lock" />
-      <change beforePath="$PROJECT_DIR$/v1/readme.md" afterPath="$PROJECT_DIR$/v1/readme.md" />
-      <change beforePath="$PROJECT_DIR$/v1/receive.php" afterPath="$PROJECT_DIR$/v1/receive.php" />
-      <change beforePath="$PROJECT_DIR$/v1/send.php" afterPath="$PROJECT_DIR$/v1/send.php" />
-      <change beforePath="$PROJECT_DIR$/v2/new_task.php" afterPath="$PROJECT_DIR$/v2/new_task.php" />
-      <change beforePath="$PROJECT_DIR$/v2/readme.md" afterPath="$PROJECT_DIR$/v2/readme.md" />
-      <change beforePath="$PROJECT_DIR$/v2/worker.php" afterPath="$PROJECT_DIR$/v2/worker.php" />
-      <change beforePath="$PROJECT_DIR$/v3/readme.md" afterPath="$PROJECT_DIR$/v3/readme.md" />
-      <change beforePath="$PROJECT_DIR$/v3/task.php" afterPath="$PROJECT_DIR$/v3/task.php" />
-      <change beforePath="$PROJECT_DIR$/v3/worker.php" afterPath="$PROJECT_DIR$/v3/worker.php" />
-      <change beforePath="$PROJECT_DIR$/v4/readme.md" afterPath="$PROJECT_DIR$/v4/readme.md" />
-      <change beforePath="$PROJECT_DIR$/v4/task.php" afterPath="$PROJECT_DIR$/v4/task.php" />
-      <change beforePath="$PROJECT_DIR$/v4/worker.php" afterPath="$PROJECT_DIR$/v4/worker.php" />
-      <change beforePath="$PROJECT_DIR$/v8/composer.json" afterPath="$PROJECT_DIR$/v8/composer.json" />
-      <change beforePath="$PROJECT_DIR$/v8/composer.lock" afterPath="$PROJECT_DIR$/v8/composer.lock" />
-      <change beforePath="$PROJECT_DIR$/v8/src/Message.php" afterPath="$PROJECT_DIR$/v8/src/Message.php" />
-      <change beforePath="$PROJECT_DIR$/v8/src/Rabbitmq/MRabbitmq_Exception.php" afterPath="$PROJECT_DIR$/v8/src/Rabbitmq/MRabbitmq_Exception.php" />
-      <change beforePath="$PROJECT_DIR$/v8/src/Rabbitmq/Producer.php" afterPath="$PROJECT_DIR$/v8/src/Rabbitmq/Producer.php" />
-      <change beforePath="$PROJECT_DIR$/v8/src/Rabbitmq/Push.php" afterPath="$PROJECT_DIR$/v8/src/Rabbitmq/Push.php" />
-      <change beforePath="$PROJECT_DIR$/v8/src/Sdk.php" afterPath="$PROJECT_DIR$/v8/src/Sdk.php" />
-      <change beforePath="$PROJECT_DIR$/v8/src/Worker.php" afterPath="$PROJECT_DIR$/v8/src/Worker.php" />
-      <change beforePath="$PROJECT_DIR$/v8/src/index.php" afterPath="$PROJECT_DIR$/v8/src/index.php" />
-      <change beforePath="$PROJECT_DIR$/v8/vendor/autoload.php" afterPath="$PROJECT_DIR$/v8/vendor/autoload.php" />
-      <change beforePath="$PROJECT_DIR$/v8/vendor/composer/ClassLoader.php" afterPath="$PROJECT_DIR$/v8/vendor/composer/ClassLoader.php" />
-      <change beforePath="$PROJECT_DIR$/v8/vendor/composer/LICENSE" afterPath="$PROJECT_DIR$/v8/vendor/composer/LICENSE" />
-      <change beforePath="$PROJECT_DIR$/v8/vendor/composer/autoload_classmap.php" afterPath="$PROJECT_DIR$/v8/vendor/composer/autoload_classmap.php" />
-      <change beforePath="$PROJECT_DIR$/v8/vendor/composer/autoload_files.php" afterPath="$PROJECT_DIR$/v8/vendor/composer/autoload_files.php" />
-      <change beforePath="$PROJECT_DIR$/v8/vendor/composer/autoload_namespaces.php" afterPath="$PROJECT_DIR$/v8/vendor/composer/autoload_namespaces.php" />
-      <change beforePath="$PROJECT_DIR$/v8/vendor/composer/autoload_psr4.php" afterPath="$PROJECT_DIR$/v8/vendor/composer/autoload_psr4.php" />
-      <change beforePath="$PROJECT_DIR$/v8/vendor/composer/autoload_real.php" afterPath="$PROJECT_DIR$/v8/vendor/composer/autoload_real.php" />
-      <change beforePath="$PROJECT_DIR$/v8/vendor/composer/autoload_static.php" afterPath="$PROJECT_DIR$/v8/vendor/composer/autoload_static.php" />
-      <change beforePath="$PROJECT_DIR$/v8/vendor/composer/installed.json" afterPath="$PROJECT_DIR$/v8/vendor/composer/installed.json" />
-      <change beforePath="$PROJECT_DIR$/v9/task.php" afterPath="$PROJECT_DIR$/v9/task.php" />
-      <change beforePath="$PROJECT_DIR$/v9/work.php" afterPath="$PROJECT_DIR$/v9/work.php" />
-      <change beforePath="$PROJECT_DIR$/vendor/autoload.php" afterPath="$PROJECT_DIR$/vendor/autoload.php" />
-      <change beforePath="$PROJECT_DIR$/vendor/composer/ClassLoader.php" afterPath="$PROJECT_DIR$/vendor/composer/ClassLoader.php" />
-      <change beforePath="$PROJECT_DIR$/vendor/composer/LICENSE" afterPath="$PROJECT_DIR$/vendor/composer/LICENSE" />
-      <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_classmap.php" afterPath="$PROJECT_DIR$/vendor/composer/autoload_classmap.php" />
-      <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_files.php" afterPath="$PROJECT_DIR$/vendor/composer/autoload_files.php" />
-      <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_namespaces.php" afterPath="$PROJECT_DIR$/vendor/composer/autoload_namespaces.php" />
-      <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_psr4.php" afterPath="$PROJECT_DIR$/vendor/composer/autoload_psr4.php" />
-      <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_real.php" afterPath="$PROJECT_DIR$/vendor/composer/autoload_real.php" />
-      <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_static.php" afterPath="$PROJECT_DIR$/vendor/composer/autoload_static.php" />
-      <change beforePath="$PROJECT_DIR$/vendor/composer/installed.json" afterPath="$PROJECT_DIR$/vendor/composer/installed.json" />
-      <change beforePath="$PROJECT_DIR$/vendor/lhwapi/pay/composer.json" afterPath="$PROJECT_DIR$/vendor/lhwapi/pay/composer.json" />
-      <change beforePath="$PROJECT_DIR$/vendor/lhwapi/pay/readme.md" afterPath="$PROJECT_DIR$/vendor/lhwapi/pay/readme.md" />
-      <change beforePath="$PROJECT_DIR$/vendor/lhwapi/pay/src/Pay.php" afterPath="$PROJECT_DIR$/vendor/lhwapi/pay/src/Pay.php" />
-      <change beforePath="$PROJECT_DIR$/vendor/lhwapi/pay/src/PayProvider.php" afterPath="$PROJECT_DIR$/vendor/lhwapi/pay/src/PayProvider.php" />
-      <change beforePath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/.github/CODE_OF_CONDUCT.md" afterPath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/.github/CODE_OF_CONDUCT.md" />
-      <change beforePath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/.github/ISSUE_TEMPLATE/1_Bug_report.md" afterPath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/.github/ISSUE_TEMPLATE/1_Bug_report.md" />
-      <change beforePath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/.github/ISSUE_TEMPLATE/2_Feature_request.md" afterPath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/.github/ISSUE_TEMPLATE/2_Feature_request.md" />
-      <change beforePath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/.github/ISSUE_TEMPLATE/3_Support_question.md" afterPath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/.github/ISSUE_TEMPLATE/3_Support_question.md" />
-      <change beforePath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/.gitmodules" afterPath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/.gitmodules" />
-      <change beforePath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/CHANGELOG.md" afterPath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/CHANGELOG.md" />
-      <change beforePath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/CONTRIBUTING.md" afterPath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/CONTRIBUTING.md" />
-      <change beforePath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/CREDITS" afterPath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/CREDITS" />
-      <change beforePath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/LICENSE" afterPath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/LICENSE" />
-      <change beforePath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Channel/AMQPChannel.php" afterPath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Channel/AMQPChannel.php" />
-      <change beforePath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Channel/AbstractChannel.php" afterPath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Channel/AbstractChannel.php" />
-      <change beforePath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AMQPConnection.php" afterPath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AMQPConnection.php" />
-      <change beforePath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AMQPLazyConnection.php" afterPath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AMQPLazyConnection.php" />
-      <change beforePath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AMQPLazySocketConnection.php" afterPath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AMQPLazySocketConnection.php" />
-      <change beforePath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AMQPSSLConnection.php" afterPath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AMQPSSLConnection.php" />
-      <change beforePath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AMQPSocketConnection.php" afterPath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AMQPSocketConnection.php" />
-      <change beforePath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AMQPStreamConnection.php" afterPath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AMQPStreamConnection.php" />
-      <change beforePath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php" afterPath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php" />
-      <change beforePath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Exception/AMQPBasicCancelException.php" afterPath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Exception/AMQPBasicCancelException.php" />
-      <change beforePath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Exception/AMQPChannelClosedException.php" afterPath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Exception/AMQPChannelClosedException.php" />
-      <change beforePath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Exception/AMQPChannelException.php" afterPath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Exception/AMQPChannelException.php" />
-      <change beforePath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Exception/AMQPConnectionBlockedException.php" afterPath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Exception/AMQPConnectionBlockedException.php" />
-      <change beforePath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Exception/AMQPConnectionClosedException.php" afterPath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Exception/AMQPConnectionClosedException.php" />
-      <change beforePath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Exception/AMQPConnectionException.php" afterPath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Exception/AMQPConnectionException.php" />
-      <change beforePath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Exception/AMQPDataReadException.php" afterPath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Exception/AMQPDataReadException.php" />
-      <change beforePath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Exception/AMQPEmptyDeliveryTagException.php" afterPath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Exception/AMQPEmptyDeliveryTagException.php" />
-      <change beforePath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Exception/AMQPException.php" afterPath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Exception/AMQPException.php" />
-      <change beforePath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Exception/AMQPExceptionInterface.php" afterPath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Exception/AMQPExceptionInterface.php" />
-      <change beforePath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Exception/AMQPHeartbeatMissedException.php" afterPath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Exception/AMQPHeartbeatMissedException.php" />
-      <change beforePath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Exception/AMQPIOException.php" afterPath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Exception/AMQPIOException.php" />
-      <change beforePath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Exception/AMQPIOWaitException.php" afterPath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Exception/AMQPIOWaitException.php" />
-      <change beforePath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Exception/AMQPInvalidArgumentException.php" afterPath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Exception/AMQPInvalidArgumentException.php" />
-      <change beforePath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Exception/AMQPInvalidFrameException.php" afterPath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Exception/AMQPInvalidFrameException.php" />
-      <change beforePath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Exception/AMQPLogicException.php" afterPath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Exception/AMQPLogicException.php" />
-      <change beforePath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Exception/AMQPNoDataException.php" afterPath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Exception/AMQPNoDataException.php" />
-      <change beforePath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Exception/AMQPNotImplementedException.php" afterPath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Exception/AMQPNotImplementedException.php" />
-      <change beforePath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Exception/AMQPOutOfBoundsException.php" afterPath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Exception/AMQPOutOfBoundsException.php" />
-      <change beforePath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Exception/AMQPOutOfRangeException.php" afterPath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Exception/AMQPOutOfRangeException.php" />
-      <change beforePath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Exception/AMQPProtocolChannelException.php" afterPath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Exception/AMQPProtocolChannelException.php" />
-      <change beforePath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Exception/AMQPProtocolConnectionException.php" afterPath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Exception/AMQPProtocolConnectionException.php" />
-      <change beforePath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Exception/AMQPProtocolException.php" afterPath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Exception/AMQPProtocolException.php" />
-      <change beforePath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Exception/AMQPRuntimeException.php" afterPath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Exception/AMQPRuntimeException.php" />
-      <change beforePath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Exception/AMQPSocketException.php" afterPath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Exception/AMQPSocketException.php" />
-      <change beforePath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Exception/AMQPTimeoutException.php" afterPath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Exception/AMQPTimeoutException.php" />
-      <change beforePath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Exchange/AMQPExchangeType.php" afterPath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Exchange/AMQPExchangeType.php" />
-      <change beforePath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Helper/Assert.php" afterPath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Helper/Assert.php" />
-      <change beforePath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Helper/DebugHelper.php" afterPath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Helper/DebugHelper.php" />
-      <change beforePath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Helper/MiscHelper.php" afterPath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Helper/MiscHelper.php" />
-      <change beforePath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Helper/Protocol/MethodMap080.php" afterPath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Helper/Protocol/MethodMap080.php" />
-      <change beforePath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Helper/Protocol/MethodMap091.php" afterPath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Helper/Protocol/MethodMap091.php" />
-      <change beforePath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Helper/Protocol/Protocol080.php" afterPath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Helper/Protocol/Protocol080.php" />
-      <change beforePath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Helper/Protocol/Protocol091.php" afterPath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Helper/Protocol/Protocol091.php" />
-      <change beforePath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Helper/Protocol/Wait080.php" afterPath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Helper/Protocol/Wait080.php" />
-      <change beforePath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Helper/Protocol/Wait091.php" afterPath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Helper/Protocol/Wait091.php" />
-      <change beforePath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Helper/SocketConstants.php" afterPath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Helper/SocketConstants.php" />
-      <change beforePath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Message/AMQPMessage.php" afterPath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Message/AMQPMessage.php" />
-      <change beforePath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Package.php" afterPath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Package.php" />
-      <change beforePath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPAbstractCollection.php" afterPath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPAbstractCollection.php" />
-      <change beforePath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPArray.php" afterPath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPArray.php" />
-      <change beforePath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPDecimal.php" afterPath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPDecimal.php" />
-      <change beforePath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php" afterPath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php" />
-      <change beforePath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPTable.php" afterPath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPTable.php" />
-      <change beforePath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPWriter.php" afterPath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPWriter.php" />
-      <change beforePath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AbstractClient.php" afterPath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AbstractClient.php" />
-      <change beforePath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/Constants.php" afterPath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/Constants.php" />
-      <change beforePath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/Constants080.php" afterPath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/Constants080.php" />
-      <change beforePath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/Constants091.php" afterPath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/Constants091.php" />
-      <change beforePath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/GenericContent.php" afterPath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/GenericContent.php" />
-      <change beforePath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/IO/AbstractIO.php" afterPath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/IO/AbstractIO.php" />
-      <change beforePath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/IO/SocketIO.php" afterPath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/IO/SocketIO.php" />
-      <change beforePath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/IO/StreamIO.php" afterPath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/IO/StreamIO.php" />
-      <change beforePath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/README.md" afterPath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/README.md" />
-      <change beforePath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/composer.json" afterPath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/composer.json" />
-      <change beforePath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/docker-compose.yaml" afterPath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/docker-compose.yaml" />
-      <change beforePath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/docker/php/Dockerfile" afterPath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/docker/php/Dockerfile" />
-      <change beforePath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/spec/amqp-rabbitmq-0.8.json" afterPath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/spec/amqp-rabbitmq-0.8.json" />
-      <change beforePath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/spec/amqp-rabbitmq-0.9.1.json" afterPath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/spec/amqp-rabbitmq-0.9.1.json" />
-      <change beforePath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/spec/parser.php" afterPath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/spec/parser.php" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpseclib/phpseclib/AUTHORS" afterPath="$PROJECT_DIR$/vendor/phpseclib/phpseclib/AUTHORS" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpseclib/phpseclib/BACKERS.md" afterPath="$PROJECT_DIR$/vendor/phpseclib/phpseclib/BACKERS.md" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpseclib/phpseclib/LICENSE" afterPath="$PROJECT_DIR$/vendor/phpseclib/phpseclib/LICENSE" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpseclib/phpseclib/README.md" afterPath="$PROJECT_DIR$/vendor/phpseclib/phpseclib/README.md" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpseclib/phpseclib/appveyor.yml" afterPath="$PROJECT_DIR$/vendor/phpseclib/phpseclib/appveyor.yml" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpseclib/phpseclib/composer.json" afterPath="$PROJECT_DIR$/vendor/phpseclib/phpseclib/composer.json" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpseclib/phpseclib/phpseclib/Crypt/AES.php" afterPath="$PROJECT_DIR$/vendor/phpseclib/phpseclib/phpseclib/Crypt/AES.php" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpseclib/phpseclib/phpseclib/Crypt/Base.php" afterPath="$PROJECT_DIR$/vendor/phpseclib/phpseclib/phpseclib/Crypt/Base.php" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpseclib/phpseclib/phpseclib/Crypt/Blowfish.php" afterPath="$PROJECT_DIR$/vendor/phpseclib/phpseclib/phpseclib/Crypt/Blowfish.php" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpseclib/phpseclib/phpseclib/Crypt/DES.php" afterPath="$PROJECT_DIR$/vendor/phpseclib/phpseclib/phpseclib/Crypt/DES.php" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpseclib/phpseclib/phpseclib/Crypt/Hash.php" afterPath="$PROJECT_DIR$/vendor/phpseclib/phpseclib/phpseclib/Crypt/Hash.php" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpseclib/phpseclib/phpseclib/Crypt/RC2.php" afterPath="$PROJECT_DIR$/vendor/phpseclib/phpseclib/phpseclib/Crypt/RC2.php" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpseclib/phpseclib/phpseclib/Crypt/RC4.php" afterPath="$PROJECT_DIR$/vendor/phpseclib/phpseclib/phpseclib/Crypt/RC4.php" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpseclib/phpseclib/phpseclib/Crypt/RSA.php" afterPath="$PROJECT_DIR$/vendor/phpseclib/phpseclib/phpseclib/Crypt/RSA.php" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpseclib/phpseclib/phpseclib/Crypt/Random.php" afterPath="$PROJECT_DIR$/vendor/phpseclib/phpseclib/phpseclib/Crypt/Random.php" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpseclib/phpseclib/phpseclib/Crypt/Rijndael.php" afterPath="$PROJECT_DIR$/vendor/phpseclib/phpseclib/phpseclib/Crypt/Rijndael.php" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpseclib/phpseclib/phpseclib/Crypt/TripleDES.php" afterPath="$PROJECT_DIR$/vendor/phpseclib/phpseclib/phpseclib/Crypt/TripleDES.php" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpseclib/phpseclib/phpseclib/Crypt/Twofish.php" afterPath="$PROJECT_DIR$/vendor/phpseclib/phpseclib/phpseclib/Crypt/Twofish.php" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpseclib/phpseclib/phpseclib/File/ANSI.php" afterPath="$PROJECT_DIR$/vendor/phpseclib/phpseclib/phpseclib/File/ANSI.php" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpseclib/phpseclib/phpseclib/File/ASN1.php" afterPath="$PROJECT_DIR$/vendor/phpseclib/phpseclib/phpseclib/File/ASN1.php" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpseclib/phpseclib/phpseclib/File/ASN1/Element.php" afterPath="$PROJECT_DIR$/vendor/phpseclib/phpseclib/phpseclib/File/ASN1/Element.php" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpseclib/phpseclib/phpseclib/File/X509.php" afterPath="$PROJECT_DIR$/vendor/phpseclib/phpseclib/phpseclib/File/X509.php" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpseclib/phpseclib/phpseclib/Math/BigInteger.php" afterPath="$PROJECT_DIR$/vendor/phpseclib/phpseclib/phpseclib/Math/BigInteger.php" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpseclib/phpseclib/phpseclib/Net/SCP.php" afterPath="$PROJECT_DIR$/vendor/phpseclib/phpseclib/phpseclib/Net/SCP.php" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpseclib/phpseclib/phpseclib/Net/SFTP.php" afterPath="$PROJECT_DIR$/vendor/phpseclib/phpseclib/phpseclib/Net/SFTP.php" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpseclib/phpseclib/phpseclib/Net/SFTP/Stream.php" afterPath="$PROJECT_DIR$/vendor/phpseclib/phpseclib/phpseclib/Net/SFTP/Stream.php" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpseclib/phpseclib/phpseclib/Net/SSH1.php" afterPath="$PROJECT_DIR$/vendor/phpseclib/phpseclib/phpseclib/Net/SSH1.php" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpseclib/phpseclib/phpseclib/Net/SSH2.php" afterPath="$PROJECT_DIR$/vendor/phpseclib/phpseclib/phpseclib/Net/SSH2.php" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpseclib/phpseclib/phpseclib/System/SSH/Agent.php" afterPath="$PROJECT_DIR$/vendor/phpseclib/phpseclib/phpseclib/System/SSH/Agent.php" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpseclib/phpseclib/phpseclib/System/SSH/Agent/Identity.php" afterPath="$PROJECT_DIR$/vendor/phpseclib/phpseclib/phpseclib/System/SSH/Agent/Identity.php" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpseclib/phpseclib/phpseclib/bootstrap.php" afterPath="$PROJECT_DIR$/vendor/phpseclib/phpseclib/phpseclib/bootstrap.php" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpseclib/phpseclib/phpseclib/openssl.cnf" afterPath="$PROJECT_DIR$/vendor/phpseclib/phpseclib/phpseclib/openssl.cnf" />
+      <change afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/mq.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/mq.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v8/composer.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v8/vendor/autoload.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v8/vendor/composer/ClassLoader.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v8/vendor/composer/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v8/vendor/composer/autoload_classmap.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v8/vendor/composer/autoload_files.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v8/vendor/composer/autoload_namespaces.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v8/vendor/composer/autoload_psr4.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v8/vendor/composer/autoload_real.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v8/vendor/composer/autoload_static.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v8/vendor/composer/installed.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/autoload.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/composer/ClassLoader.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/composer/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_classmap.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_files.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_namespaces.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_psr4.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_real.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_static.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/composer/installed.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/lhwapi/pay/composer.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/lhwapi/pay/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/lhwapi/pay/src/Pay.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/lhwapi/pay/src/PayProvider.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/.github/CODE_OF_CONDUCT.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/.github/ISSUE_TEMPLATE/1_Bug_report.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/.github/ISSUE_TEMPLATE/2_Feature_request.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/.github/ISSUE_TEMPLATE/3_Support_question.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/.gitmodules" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/CONTRIBUTING.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/CREDITS" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Channel/AMQPChannel.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Channel/AbstractChannel.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AMQPConnection.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AMQPLazyConnection.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AMQPLazySocketConnection.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AMQPSSLConnection.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AMQPSocketConnection.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AMQPStreamConnection.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Exception/AMQPBasicCancelException.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Exception/AMQPChannelClosedException.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Exception/AMQPChannelException.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Exception/AMQPConnectionBlockedException.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Exception/AMQPConnectionClosedException.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Exception/AMQPConnectionException.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Exception/AMQPDataReadException.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Exception/AMQPEmptyDeliveryTagException.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Exception/AMQPException.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Exception/AMQPExceptionInterface.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Exception/AMQPHeartbeatMissedException.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Exception/AMQPIOException.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Exception/AMQPIOWaitException.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Exception/AMQPInvalidArgumentException.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Exception/AMQPInvalidFrameException.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Exception/AMQPLogicException.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Exception/AMQPNoDataException.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Exception/AMQPNotImplementedException.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Exception/AMQPOutOfBoundsException.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Exception/AMQPOutOfRangeException.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Exception/AMQPProtocolChannelException.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Exception/AMQPProtocolConnectionException.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Exception/AMQPProtocolException.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Exception/AMQPRuntimeException.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Exception/AMQPSocketException.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Exception/AMQPTimeoutException.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Exchange/AMQPExchangeType.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Helper/Assert.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Helper/DebugHelper.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Helper/MiscHelper.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Helper/Protocol/MethodMap080.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Helper/Protocol/MethodMap091.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Helper/Protocol/Protocol080.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Helper/Protocol/Protocol091.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Helper/Protocol/Wait080.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Helper/Protocol/Wait091.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Helper/SocketConstants.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Message/AMQPMessage.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Package.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPAbstractCollection.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPArray.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPDecimal.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPTable.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPWriter.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AbstractClient.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/Constants.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/Constants080.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/Constants091.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/GenericContent.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/IO/AbstractIO.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/IO/SocketIO.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/IO/StreamIO.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/composer.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/docker-compose.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/docker/php/Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/spec/amqp-rabbitmq-0.8.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/spec/amqp-rabbitmq-0.9.1.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib/spec/parser.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/phpseclib/phpseclib/AUTHORS" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/phpseclib/phpseclib/BACKERS.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/phpseclib/phpseclib/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/phpseclib/phpseclib/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/phpseclib/phpseclib/appveyor.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/phpseclib/phpseclib/composer.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/phpseclib/phpseclib/phpseclib/Crypt/AES.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/phpseclib/phpseclib/phpseclib/Crypt/Base.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/phpseclib/phpseclib/phpseclib/Crypt/Blowfish.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/phpseclib/phpseclib/phpseclib/Crypt/DES.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/phpseclib/phpseclib/phpseclib/Crypt/Hash.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/phpseclib/phpseclib/phpseclib/Crypt/RC2.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/phpseclib/phpseclib/phpseclib/Crypt/RC4.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/phpseclib/phpseclib/phpseclib/Crypt/RSA.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/phpseclib/phpseclib/phpseclib/Crypt/Random.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/phpseclib/phpseclib/phpseclib/Crypt/Rijndael.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/phpseclib/phpseclib/phpseclib/Crypt/TripleDES.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/phpseclib/phpseclib/phpseclib/Crypt/Twofish.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/phpseclib/phpseclib/phpseclib/File/ANSI.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/phpseclib/phpseclib/phpseclib/File/ASN1.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/phpseclib/phpseclib/phpseclib/File/ASN1/Element.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/phpseclib/phpseclib/phpseclib/File/X509.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/phpseclib/phpseclib/phpseclib/Math/BigInteger.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/phpseclib/phpseclib/phpseclib/Net/SCP.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/phpseclib/phpseclib/phpseclib/Net/SFTP.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/phpseclib/phpseclib/phpseclib/Net/SFTP/Stream.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/phpseclib/phpseclib/phpseclib/Net/SSH1.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/phpseclib/phpseclib/phpseclib/Net/SSH2.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/phpseclib/phpseclib/phpseclib/System/SSH/Agent.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/phpseclib/phpseclib/phpseclib/System/SSH/Agent/Identity.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/phpseclib/phpseclib/phpseclib/bootstrap.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/phpseclib/phpseclib/phpseclib/openssl.cnf" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="composer.json" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/composer.json">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/v8/composer.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="87">
-              <caret line="3" column="21" lean-forward="true" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
-              <folding />
+            <state relative-caret-position="257">
+              <caret line="12" column="32" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/readme.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor />
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/v8/src/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="312">
+              <caret line="24" column="30" selection-start-line="24" selection-start-column="30" selection-end-line="24" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/v8/src/Rabbitmq/Push.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="234">
+              <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/v8/src/Message.php">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/v8/src/Worker.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="485">
+              <caret line="30" column="36" lean-forward="true" selection-start-line="30" selection-start-column="36" selection-end-line="30" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/v8/src/Sdk.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="24">
+              <caret line="37" column="6" lean-forward="true" selection-start-line="37" selection-start-column="6" selection-end-line="37" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/v8/vendor/autoload.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="182">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
             </state>
           </provider>
         </entry>
@@ -189,61 +229,66 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsGulpfileManager">
-    <detection-done>true</detection-done>
-    <sorting>DEFINITION_ORDER</sorting>
-  </component>
-  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true">
-    <include_path>
-      <path value="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib" />
-      <path value="$PROJECT_DIR$/vendor/composer" />
-      <path value="$PROJECT_DIR$/vendor/phpseclib/phpseclib" />
-      <path value="$PROJECT_DIR$/vendor/lhwapi/pay" />
-    </include_path>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/v8/composer.json" />
+      </list>
+    </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="22" />
     <option name="y" value="23" />
-    <option name="width" value="1880" />
-    <option name="height" value="1057" />
+    <option name="width" value="1440" />
+    <option name="height" value="822" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
-      <flattenPackages />
-      <showMembers />
-      <showModules />
-      <showLibraryContents />
-      <hideEmptyPackages />
-      <abbreviatePackageNames />
-      <autoscrollToSource />
-      <autoscrollFromSource />
-      <sortByType />
-      <manualOrder />
+    <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="mq" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mq" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="mq" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mq" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mq" type="462c0819:PsiDirectoryNode" />
+              <item name="v8" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mq" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mq" type="462c0819:PsiDirectoryNode" />
+              <item name="v8" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mq" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mq" type="462c0819:PsiDirectoryNode" />
+              <item name="v8" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Rabbitmq" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mq" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mq" type="462c0819:PsiDirectoryNode" />
+              <item name="v8" type="462c0819:PsiDirectoryNode" />
+              <item name="vendor" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -257,9 +302,6 @@
       </list>
     </option>
   </component>
-  <component name="ShelveChangesManager" show_recycled="false">
-    <option name="remove_strategy" value="false" />
-  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -271,52 +313,94 @@
       <option name="presentableId" value="Default" />
       <updated>1605874332965</updated>
       <workItem from="1605874334220" duration="111000" />
+      <workItem from="1605878148748" duration="2455000" />
+      <workItem from="1605926453546" duration="1306000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="111000" />
+    <option name="totallyTimeSpent" value="3872000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="40" y="23" width="1880" height="1057" extended-state="6" />
+    <frame x="0" y="23" width="1440" height="816" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.25679544" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.67655367" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager />
-    <watches-manager />
-  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/composer.json">
+    <entry file="file://$PROJECT_DIR$/composer.json" />
+    <entry file="file://$PROJECT_DIR$/v8/composer.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="87">
-          <caret line="3" column="21" lean-forward="true" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
-          <folding />
+        <state relative-caret-position="257">
+          <caret line="12" column="32" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v8/vendor/autoload.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v8/src/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="24" column="30" selection-start-line="24" selection-start-column="30" selection-end-line="24" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v8/src/Rabbitmq/Push.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v8/src/Sdk.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="37" column="6" lean-forward="true" selection-start-line="37" selection-start-column="6" selection-end-line="37" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v8/src/Message.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v8/src/Worker.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="485">
+          <caret line="30" column="36" lean-forward="true" selection-start-line="30" selection-start-column="36" selection-end-line="30" selection-end-column="36" />
         </state>
       </provider>
     </entry>
